@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Please have a look at my several projects which has been created entirely by myself.
+
 <!--
 **marcinel123/marcinel123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
