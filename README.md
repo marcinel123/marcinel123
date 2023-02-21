@@ -1,9 +1,9 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://gifdb.com/gif/shaquille-o-neal-smile-usmta6wu8aetmm25.html" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Martin. A frontend developer in the process of making 😇</div>  
+### <div align="center">I'm Martin. A frontend developer in the process of making, always 😇</div>  
   
 
 - 🔭 I’m currently working on https://github.com/marcinel123/URL-shortening-API-landing-page  
@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="90%">
 
 
 
@@ -44,13 +44,6 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -70,18 +63,6 @@
 
 <br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
   
 
 <br/>  
@@ -90,11 +71,3 @@
 <img src="https://komarev.com/ghpvc/?username=marcinel123&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
