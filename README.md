@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gifdb.com/gif/shaquille-o-neal-smile-usmta6wu8aetmm25.html" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
