@@ -6,7 +6,7 @@
 ### <div align="center">I'm Martin. A frontend developer in the process of making, always 😇</div>  
   
 
-- 🔭 I’m currently working on freshly published project: https://ip-address-tracker-by-ela.netlify.app/ 
+- 🔭 I’m currently working on freshly published project: https://rest-countries-by-ela.netlify.app/
   
 
 - 🌱 I’m currently learning React and TypeScript.  
